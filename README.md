@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-nine-phi.vercel.app/api/top-langs/?username=LBuke&layout=compact)]
+![Top Langs](https://github-readme-stats-nine-phi.vercel.app/api/top-langs/?username=LBuke&layout=compact)
 
 <!--
 **LBuke/LBuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
